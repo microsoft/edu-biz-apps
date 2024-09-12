@@ -1,6 +1,3 @@
-# edu-biz-apps
-A collection of Power Platform and Dynamics 365 resources, open-sourced to Education organizations
-
 # Education Business Applications Repository
 
 Welcome to the **Education Business Applications open-source repository**! Here, you'll find a collection of Power Platform and Dynamics 365 resources, curated for the Education community. Our mission is to provide you with the tools and knowledge essential to ignite and navigate your journey within the Power Platform and Dynamics 365 landscape.
